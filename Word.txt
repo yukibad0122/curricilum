@@ -1,14 +1,28 @@
-・IT （Information Technology）
-	「情報技術」のことでコンピューターやデータ通信に関する技術の総称
-	コンピューター、ソフトウェア、アプリケーション
-・ICT (Information and Communication Technology )
-	「情報通信技術」のこと　通信技術を使って人とインターネット、
-	人と人が繋がること
-	メール、SNS
-・Iot (Internet Of Things)
-	モノのインターネット　人を使わずモノが自動的にインターネット
-	とつながる技術のこと
-	自動運転、アレクサなど
-
-・OS (Operating System)
-	
+IT
+	・IT （Information Technology）
+		「情報技術」のことでコンピューターやデータ通信に関する技術の総称
+		コンピューター、ソフトウェア、アプリケーション
+	・ICT (Information and Communication Technology )
+		「情報通信技術」のこと　通信技術を使って人とインターネット、
+		人と人が繋がること
+		メール、SNS
+	・Iot (Internet Of Things)
+		モノのインターネット　人を使わずモノが自動的にインターネット
+		とつながる技術のこと
+		自動運転、アレクサなど
+OS
+	・OS (Operating System)
+		システム全体を管理し、様々なアプリケーションソフトを動かす最も
+		基本的なソフトウェア
+	・Windows
+		マイクロソフト社が開発したOS
+	・macOS (Mac OS X)
+		アップル社が開発したOS
+	・UNIX
+		OSの一種である。コンピューター用のマルチタスクのOS
+	・Linux
+		世界で最も復旧しているオープンソースのOS。UNIX系OSの一種
+		プログラムが公開されており、誰でも自由に入手や使用、改変、
+		再配布できる
+言語・環境
+	・マークアップ/フロントエンド
